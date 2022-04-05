@@ -1,0 +1,25 @@
+{
+  "name": "homework5-sebothagawd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullstack-decal/homework5-SeboThaGawd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullstack-decal/homework5-SeboThaGawd/issues"
+  },
+  "homepage": "https://github.com/fullstack-decal/homework5-SeboThaGawd#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10",
+    "nodemon": "^2.0.15"
+  }
+}
